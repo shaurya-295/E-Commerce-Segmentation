@@ -75,6 +75,7 @@ The dataset should include the following fields:
 - **Accuracy**
 - **Precision**
 - **Recall**
+
 - **Confusion Matrix**
 
 ---
@@ -84,3 +85,6 @@ The dataset should include the following fields:
 1. **Clone this repo**  
    ```bash
    git clone https://github.com/your-username/ecommerce-customer-segmentation.git
+## RESULT 
+![Screenshot 2025-04-18 153855](https://github.com/user-attachments/assets/0eebd5b5-8da9-4b25-b116-0957cae99065)
+![Screenshot 2025-04-18 153916](https://github.com/user-attachments/assets/9000aa7e-4e09-4530-9161-f92adae885ee)
